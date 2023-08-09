@@ -1,0 +1,11 @@
+1. ADSC 1115
+2. DHT 11
+3. Battery 4.8v
+4. PH Sensor
+5. Jumper Wires
+6. LED Bulbs
+7. Servo Motors
+8. Water Level Sensor
+9. Soil Moisture Sensor
+10. Dc Water Pump
+11. Relay
